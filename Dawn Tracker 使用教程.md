@@ -60,7 +60,7 @@ Dawn Tracker → Dawn Tracker 接收器 → 電腦 → SlimeVR Server → SteamV
 2. 等待系統識別接收器。
 3. 打開 SlimeVR Server。
 4. 開啟所有 Tracker。
-5. 確認 Tracker 是否出現在 SlimeVR Server 的「設備」列表中。SlimeVR Server 不會顯示 Receiver。
+5. 確認 Tracker 是否出現在 SlimeVR Server 裝置列表中。
 
 注意：
 
