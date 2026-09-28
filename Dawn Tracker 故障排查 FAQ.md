@@ -15,7 +15,6 @@
 4. USB 線是否支援資料傳輸。
 5. SlimeVR Server 是否已啟動。
 6. SlimeVR Server 是否能看到 Receiver。
-7. Tracker 是否需要重新配對。
 
 可嘗試：
 
@@ -24,7 +23,6 @@
 - 重啟 SlimeVR Server。
 - 更換 USB 線。
 - 更換 USB 口。
-- 重新配對。
 
 ---
 
@@ -36,9 +34,17 @@ Dawn Tracker 使用專用接收器，正常使用不需要為 Tracker 配置 Wi�
 
 ---
 
-## 3. 接收器 / Tracker 配對失敗
+## 3. 接收器 / Tracker 配對問題
 
-可分別嘗試：
+Dawn Tracker 出廠已完成配對。一般連不上、掉線、TPS 低或信號差時，不要優先重新配對。
+
+只有在以下情況下才建議進行配對：
+
+- 更換接收器。
+- 新增 Tracker。
+- 已明確確認配對資訊丟失。
+
+確實需要配對時，可使用：
 
 - 使用 Dawn Tracker Tools 的 `pair` 指令。
 - 使用 SmolSlime Web Configurator：
@@ -300,6 +306,7 @@ Mini 2 系列可使用以下方式關閉全部 Tracker：
 - 不要把 Mini 2T 說成支援磁力計。
 - 不要把 Lite 2 說成支援磁力計。
 - 不要把 Lite 2 的固件更新方式寫成 Dawn Tracker Tools。
+- 一般連接故障不要優先建議重新配對；只有更換接收器、新增 Tracker 或明確確認配對資訊丟失時才進行配對。
 - 不要在沒有確認型號 / 固件版本時，過度依賴特定燈號或按鍵時間判斷問題。
 - 不要用高平滑、高補正掩蓋錯誤佩戴或錯誤身體比例。
 - 不要引導使用者刷寫來源不明的非官方固件。
