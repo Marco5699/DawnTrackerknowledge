@@ -14,10 +14,7 @@
 3. 接收器是否已連接電腦。
 4. USB 線是否支援資料傳輸。
 5. SlimeVR Server 是否已啟動。
-6. Tracker 是否出現在 SlimeVR Server 的「設備」列表中。
-7. 接收器是否能被系統或 Dawn Tracker Tools 正常識別。
-
-注意：SlimeVR Server 的「設備」列表只會顯示 Tracker，不會顯示 Receiver。不要用「SlimeVR 裡有沒有 Receiver」判斷接收器是否正常。
+6. SlimeVR Server 是否能看到 Receiver。
 
 可嘗試：
 
