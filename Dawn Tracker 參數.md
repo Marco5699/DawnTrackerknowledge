@@ -75,11 +75,11 @@
 
 幣值：CNY
 
-| 套裝 | Dawn Tracker Mini 2T | Dawn Tracker Mini 2 | Dawn Tracker Mini 2 Pro |
-|---|---:|---:|---:|
-| 6 點 | 629 | 699 | 1299 |
-| 8 點 | 829 | 899 | 1599 |
-| 10 點 | 1029 | 1099 | 1999 |
+| 套裝 | Dawn Tracker Lite 2（v2.1） | Dawn Tracker Mini 2T | Dawn Tracker Mini 2 | Dawn Tracker Mini 2 Pro |
+|---|---:|---:|---:|---:|
+| 6 點 | 449 | 629 | 699 | 1299 |
+| 8 點 | 599 | 829 | 899 | 1599 |
+| 10 點 | 749 | 1029 | 1099 | 1999 |
 
 ---
 
